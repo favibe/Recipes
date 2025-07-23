@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 32px;
+    color: brown;
+    text-align: center;
+}
+p {
+    background-color: antiquewhite;
+    text-align: center;
+}
+ul, li{
+    background-color: bisque;
+    list-style: none;
+    color: pink;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: green;
+}
+h1 {
+    font-size: 32px;
+    color: brown
+}
+img{
+    padding: 10px;
+}
+h1, h3 {
+    text-align: center;
+}
+p, ul, li, ol {
+    background-color: antiquewhite;
+    padding: 2px;
+}
